@@ -2,6 +2,8 @@
 Site onde um agricultor/a familiar possa calcular a viabilidade de um tipo de empreendimento.
 - Projeto em React, para a disciplina de Desenvolvimento de software 1 do curso de Análise e desenvolvimento de sistemas - IFSP
 ---
+Site: https://calculadora-viabilidade.web.app/
+
 Dados de acesso: deisi@gmail.com | 123456
 
 ![image](https://github.com/Deisilani/Calculadora-viabilidade/assets/53665910/2c9322d4-c105-42aa-8156-43e4dbe9fea9)
