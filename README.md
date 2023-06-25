@@ -1,6 +1,6 @@
 # Calculadora-viabilidade
 Site onde um agricultor/a familiar possa calcular a viabilidade de um tipo de empreendimento.
-- Projeto em React, para a disciplina de Desenvolvimento de software 1 do curso de Análise e desenvolvimento de sistemas - IFSP
+- Projeto em React, para a disciplina de Desenvolvimento de software 1, do curso de Análise e desenvolvimento de sistemas - IFSP
 ---
 Site: https://calculadora-viabilidade.web.app/
 
